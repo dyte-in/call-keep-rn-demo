@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1043927287364",
+    "project_id": "dyte-poc-callkeep",
+    "storage_bucket": "dyte-poc-callkeep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043927287364:android:b3843389896f9c451f1e11",
+        "android_client_info": {
+          "package_name": "com.blendtale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043927287364-nav17icotapgqpetinn5qh66khmv4adp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blendtale",
+            "certificate_hash": "e2f8c702acd556616690e8d613823556066d1d66"
+          }
+        },
+        {
+          "client_id": "1043927287364-okkhmj3retetissnbncmggs2qdjm7t0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpUtekDwIDAiPhdyuZkD7mJ-PLcOw3JMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043927287364-okkhmj3retetissnbncmggs2qdjm7t0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
