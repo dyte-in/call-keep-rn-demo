@@ -22,8 +22,8 @@ return (
         onInit={onMeetingInit}
         clientId={`orgId`}
         meetingConfig={{
-            roomName: `roomName`,
-            authToken: `authToken`
+            roomName: 'fhcpoi-dfzocb', //NOTE: Change/Pass room name here
+            authToken: ``
         }}
         uiConfig={{
             dimensions: {

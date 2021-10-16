@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react'
 import {AppState} from 'react-native'
-import 'react-native-gesture-handler';
 import { connect, Provider } from 'react-redux';
 import  { store, persistor } from './src/store'
 import {Dyte, Home} from '@src/screens'
